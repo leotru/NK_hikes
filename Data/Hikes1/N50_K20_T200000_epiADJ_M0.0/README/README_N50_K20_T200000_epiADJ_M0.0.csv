@@ -1,0 +1,27 @@
+----------------------------------------------------
+
+SimNK logbook: Global information of the simulation.
+
+----------------------------------------------------
+
+The parameters used in this simulation are
+
+shell RANDOM seed = 1234567890
+N = 50
+K = 20
+A = 2
+epi = ADJ
+snk = 16022007
+swlk = random
+T = 200000
+samples = 100
+M = 0.0
+
+---------------------------------------------------
+Start time : 18:12:51
+End time : 18:18:52
+Date : 2021/02/17
+---------------------------------------------------
+SimNK - Project AevolStatPhys
+Bye!
+---------------------------------------------------
