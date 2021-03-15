@@ -1,3 +1,1 @@
-Paul Banse, Inria
-Guillaume Beslon, Inria
-Leonardo Trujillo, Inria
+Paul Banse, Guillaume Beslon, Leonardo Trujillo
