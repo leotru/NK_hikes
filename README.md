@@ -1,5 +1,5 @@
 # NK_hikes
-This repository contains supporting data and codes for paper
+This repository contains supporting data and codes for the paper
 ### Simulating short- and long-term evolutionary dynamics on rugged landscapes
 by L. Trujillo, P. Banse and G. Beslon (2021)
 ##### Abstract
