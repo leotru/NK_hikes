@@ -5,7 +5,7 @@ by L. Trujillo, P. Banse and G. Beslon (2021)
 ##### Abstract
 We propose a minimal model to simulate long waiting times followed by evolutionary bursts on rugged landscapes. It combines point and inversions-like mutations as sources of genetic variation. The inversions are intended to simulate one of the main chromosomal rearrangements. Using the well-known family of NK fitness landscapes, we simulate random adaptive walks, i.e. successive mutational events con- strained to incremental fitness selection. We report the emergence of different time scales: a short-term dynamics mainly driven by point mutations, followed by a long-term (stasis- like) waiting period until a new mutation arises. This new mutation is an inversion which can trigger a burst of successive point mutations, and then drives the system to new short-term increasing-fitness period. We analyse the effect of genes epistatic interactions on the evolutionary time scales. We suggest that the present model mimics the process of evolutionary innovation and punctuated equilibrium.
 
-The preprint is available on [arXiv](https://arxiv.org/).
+The preprint is available on [arXiv:2105.05520](https://arxiv.org/abs/2105.05520).
 
 #### Repository content
 1 Codes:
